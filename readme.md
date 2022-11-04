@@ -1,4 +1,4 @@
-<p> <b> Estrutura padrão de projeto Laravel na versão 5.7 com estrutura Administrativa </b>  </p>
+<p> <b> Estrutura padrão de projeto Laravel na versão 5.7 com estrutura Administrativa. </b>  </p>
 
 <h5><b> # Layout de Administração fatiado </b></h5>
 <h5><b> # Arquivos SASS </b></h5>
